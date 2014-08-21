@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: За нас
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Тони Душков
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Георги
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+Този сайт е проект от курса ни по HTML и CSS, воден от Константин Данков. В този курс научихме много неща, за HTML, CSS, Wordpress, Github, Jekyll, Photoshop, Типографията, използвахме различни иснтрументи, с които създавахме, редактирахме HTML и CSS файлове. Забавалявахме се и се вдъхновявахме. 
